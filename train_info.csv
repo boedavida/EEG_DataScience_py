@@ -1,0 +1,17 @@
+﻿file_id,pt_id,loc,sz_present,sz_type,t_start,t_end
+train_01,C20,LE,1,IC - Focal Evolving to BL TC,77,155
+train_02,A12,LF,0,,,
+train_03,C6,RE,1,IB - Focal Impaired Awareness,303,431
+train_04,C14,RE,0,,,
+train_05,A3,LF,0,,,
+train_06,A6,RF,1,IB - Focal Impaired Awareness,354,463
+train_07,A6,LF,1,IB - Focal Impaired Awareness,430,448
+train_08,B8,RF,0,,,
+train_09,A12,LE,0,,,
+train_10,A25,RE,1,IA1 - Focal Aware w/Motor,200,299
+train_11,B17,LF,0,,,
+train_12,A25,RE,1,IA1 - Focal Aware w/Motor,431,472
+train_13,B8,RF,0,,,
+train_14,A25,LF,1,IC - Focal Evolving to BL TC,167,187
+train_15,B32,LF,1,IIA1 - Generalized Absence - Typical,418,447
+train_16,B3,LE,0,,,
